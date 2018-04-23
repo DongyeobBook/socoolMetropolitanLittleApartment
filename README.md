@@ -5,3 +5,5 @@
 [프롤로그](https://github.com/DongyeobBook/socoolMetropolitanLittleApartment/blob/master/summary/prologue.md)
 
 [1장 내 집을 꼭 사야 하는 이유](https://github.com/DongyeobBook/socoolMetropolitanLittleApartment/blob/master/summary/1.md)
+
+[2장 꼬마 아파트로 시작하라](https://github.com/DongyeobBook/socoolMetropolitanLittleApartment/blob/master/summary/2.md)
