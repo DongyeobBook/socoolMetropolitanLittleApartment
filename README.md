@@ -9,3 +9,5 @@
 [2장 꼬마 아파트로 시작하라](https://github.com/DongyeobBook/socoolMetropolitanLittleApartment/blob/master/summary/2.md)
 
 [3장 서울 수도권 완전정복](https://github.com/DongyeobBook/socoolMetropolitanLittleApartment/blob/master/summary/3.md)
+
+[4장 서울 수도권 꼬마아파트 핵심지역](https://github.com/DongyeobBook/socoolMetropolitanLittleApartment/blob/master/summary/4.md)
