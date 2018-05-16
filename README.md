@@ -11,3 +11,5 @@
 [3장 서울 수도권 완전정복](https://github.com/DongyeobBook/socoolMetropolitanLittleApartment/blob/master/summary/3.md)
 
 [4장 서울 수도권 꼬마아파트 핵심지역](https://github.com/DongyeobBook/socoolMetropolitanLittleApartment/blob/master/summary/4.md)
+
+[5장 내 집 마련 마인드맵 만들기](https://github.com/DongyeobBook/socoolMetropolitanLittleApartment/blob/master/summary/5.md)
